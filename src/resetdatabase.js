@@ -21,7 +21,6 @@ var initialData = {
       "_id":new ObjectID("000000000000000000000001"),
       "firstname": "Vincent",
       "lastname": "Lou",
-      "nickname": "crown",
       "avatar": "123",
       "email": "upao@umass.edu",
       "phoneNumber":"138-8888-8888"
