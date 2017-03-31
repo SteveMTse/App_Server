@@ -1,0 +1,33 @@
+{
+  "name": "timedesign_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMTse/App_Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveMTse/App_Server/issues"
+  },
+  "homepage": "https://github.com/SteveMTse/App_Server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-jsonschema": "^1.1.0",
+    "mongo-express": "^0.30.40",
+    "mongodb": "^2.1.14"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-plugin-node": "^1.0.0",
+    "moment": "2.16.0"
+  }
+
+}
